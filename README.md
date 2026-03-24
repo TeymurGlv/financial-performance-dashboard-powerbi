@@ -24,6 +24,9 @@ This project analyzes financial performance using Power BI, focusing on revenue,
 - Time-series analysis for revenue and profit trends  
 - Segmentation analysis by product, country, and customer segment  
 
+## Business Value
+This dashboard supports data-driven decision-making by identifying key revenue drivers, profitability trends, and areas of growth across products and regions.
+
 ## Tools & Skills
 - Power BI  
 - DAX  
