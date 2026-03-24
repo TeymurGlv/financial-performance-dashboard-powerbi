@@ -4,7 +4,7 @@
 This project analyzes financial performance using Power BI, focusing on revenue, profitability, and growth trends across products, regions, and customer segments.
 
 ## Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](Screenshot 2026-03-24 185511.png)
 
 ## Key Metrics
 - Total Revenue: $119M  
